@@ -8,3 +8,4 @@ dejame de tonterias
 
 añademe esta 
 comprobando a ver si me funciona ahora 
+parece que ya se ha solucionado la problema del git log
