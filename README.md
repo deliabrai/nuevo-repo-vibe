@@ -7,3 +7,4 @@ Solo para probar, agrego esta línea y confirmo si ya deja de molestar.
 dejame de tonterias
 
 añademe esta 
+comprobando a ver si me funciona ahora 
